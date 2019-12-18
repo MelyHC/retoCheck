@@ -1,0 +1,98 @@
+[
+  {
+    "id":0,
+    "classColor":"math",
+    "name": "Matemáticas",
+    "process": {
+      "bronze": {
+        "total": 6,
+        "complete": 5,
+        "img": "../img/feature-lingot-bronze.svg"
+      },
+      "silver":{
+        "total": 3,
+        "complete": 1,
+        "img": "../img/feature-lingot-silver.svg"
+      },
+      "gold": {
+        "total": 6,
+        "complete": 5,
+        "img": "../img/feature-lingot-gold.svg"
+      },
+      "diamond": {
+        "total": 6,
+        "complete": 5,
+        "img": "../img/diamond.svg"
+      }
+    },
+    "test":{
+      "complete": 0,
+      "try": 1
+    },
+    "image": "../img/abacus.svg"
+  },
+  {
+    "id":1,
+    "classColor":"physical",
+    "name": "Física Básica",
+    "process": {
+      "bronze": {
+        "total": 6,
+        "complete": 5,
+        "img": "../img/feature-lingot-bronze.svg"
+      },
+      "silver":{
+        "total": 3,
+        "complete": 1,
+        "img": "../img/feature-lingot-silver.svg"
+      },
+      "gold": {
+        "total": 6,
+        "complete": 5,
+        "img": "../img/feature-lingot-gold.svg"
+      },
+      "diamond": {
+        "total": 6,
+        "complete": 5,
+        "img": "../img/diamond.svg"
+      }
+    },
+    "test":{
+      "complete": 0,
+      "try": 1
+    },
+    "image": "../img/science.svg"
+  },
+  {
+    "id":2,
+    "classColor": "biology",
+    "name": "Biología General",
+    "process": {
+      "bronze": {
+        "total": 6,
+        "complete": 5,
+        "img": "../img/feature-lingot-bronze.svg"
+      },
+      "silver":{
+        "total": 3,
+        "complete": 1,
+        "img": "../img/feature-lingot-silver.svg"
+      },
+      "gold": {
+        "total": 6,
+        "complete": 5,
+        "img": "../img/feature-lingot-gold.svg"
+      },
+      "diamond": {
+        "total": 6,
+        "complete": 5,
+        "img": "../img/diamond.svg"
+      }
+    },
+    "test":{
+      "complete": 0,
+      "try": 1
+    },
+    "image": "../img/dna.svg"
+  }
+]

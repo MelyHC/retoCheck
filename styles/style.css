@@ -1,0 +1,98 @@
+* {
+  font-family: 'Rubik' , sans-serif;
+}
+
+.Base_buttons {
+  max-width: 771px;
+  min-height: 156px;
+  border-radius: 6px;
+  box-shadow: -1px 2px 25px 3px rgba(0, 0, 0, 0.11);
+  background-color: #ffffff;
+  padding: 1.5rem;
+}
+
+.Size_text {
+  font-size: 12px;
+}
+
+.Size_title {
+  font-size: 18px;
+}
+
+.Size_progress {
+  height: 0.5rem;
+}
+
+.bg-math {
+  background-color: #fbc420;
+}
+
+.bg-physical {
+  background-color: #1d252c;
+}
+
+.bg-biology {
+  background-color: #f9f9f9;
+}
+
+.bg {
+  background-color: #f3f6f9;
+}
+
+.bg-bronze {
+  background-color: #cb7e4a;
+}
+
+.bg-silver {
+  background-color: #a5c0cf;
+}
+
+.bg-gold {
+  background-color: #fbc420;
+}
+
+.bg-diamond {
+  background-color: #55e6fe;
+}
+
+.card-flex{
+  display: flex;
+  align-items: center;
+}
+
+.d-inline {
+  max-width: 400px;
+  width: 400px;
+}
+
+.space {
+  width: 43px;
+  height: 43px;
+}
+
+.border-space {
+  border: 1px dashed #fbd149;
+}
+
+.border-bronze {
+  border: 1px solid #f8d8bf;
+}
+
+.border-silver {
+  border: 1px solid #dfeef7;
+}
+
+.border-gold {
+  border: 1px solid #fbeca5;
+}
+
+.border-diamond {
+  border: 1px solid #e0fbff;
+}
+
+@media screen and (min-width: 375px) {
+  .d-inline {
+    max-width: 250px;
+    width: 300px;
+  }
+}
