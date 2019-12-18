@@ -7,29 +7,29 @@
       "bronze": {
         "total": 6,
         "complete": 5,
-        "img": "../img/feature-lingot-bronze.svg"
+        "img": "./img/feature-lingot-bronze.svg"
       },
       "silver":{
         "total": 3,
         "complete": 1,
-        "img": "../img/feature-lingot-silver.svg"
+        "img": "./img/feature-lingot-silver.svg"
       },
       "gold": {
         "total": 6,
         "complete": 5,
-        "img": "../img/feature-lingot-gold.svg"
+        "img": "./img/feature-lingot-gold.svg"
       },
       "diamond": {
         "total": 6,
         "complete": 5,
-        "img": "../img/diamond.svg"
+        "img": "./img/diamond.svg"
       }
     },
     "test":{
       "complete": 0,
       "try": 1
     },
-    "image": "../img/abacus.svg"
+    "image": "./img/abacus.svg"
   },
   {
     "id":1,
@@ -39,29 +39,29 @@
       "bronze": {
         "total": 6,
         "complete": 5,
-        "img": "../img/feature-lingot-bronze.svg"
+        "img": "./img/feature-lingot-bronze.svg"
       },
       "silver":{
         "total": 3,
         "complete": 1,
-        "img": "../img/feature-lingot-silver.svg"
+        "img": "./img/feature-lingot-silver.svg"
       },
       "gold": {
         "total": 6,
         "complete": 5,
-        "img": "../img/feature-lingot-gold.svg"
+        "img": "./img/feature-lingot-gold.svg"
       },
       "diamond": {
         "total": 6,
         "complete": 5,
-        "img": "../img/diamond.svg"
+        "img": "./img/diamond.svg"
       }
     },
     "test":{
       "complete": 0,
       "try": 1
     },
-    "image": "../img/science.svg"
+    "image": "./img/science.svg"
   },
   {
     "id":2,
@@ -71,28 +71,28 @@
       "bronze": {
         "total": 6,
         "complete": 5,
-        "img": "../img/feature-lingot-bronze.svg"
+        "img": "./img/feature-lingot-bronze.svg"
       },
       "silver":{
         "total": 3,
         "complete": 1,
-        "img": "../img/feature-lingot-silver.svg"
+        "img": "./img/feature-lingot-silver.svg"
       },
       "gold": {
         "total": 6,
         "complete": 5,
-        "img": "../img/feature-lingot-gold.svg"
+        "img": "./img/feature-lingot-gold.svg"
       },
       "diamond": {
         "total": 6,
         "complete": 5,
-        "img": "../img/diamond.svg"
+        "img": "./img/diamond.svg"
       }
     },
     "test":{
       "complete": 0,
       "try": 1
     },
-    "image": "../img/dna.svg"
+    "image": "./img/dna.svg"
   }
 ]
