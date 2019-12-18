@@ -1,7 +1,7 @@
 const containCours = document.getElementById('courses');
 
 
-fetch('../coursesData/data.json')
+fetch('./coursesData/data.json')
   .then(res => res.json())
   .then(data => {
     containCours.innerHTML = printCours(data)
